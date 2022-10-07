@@ -1,0 +1,12 @@
+C:\Works\CSharpWorks\NasaApp\NasaLib\bin\Debug\net6.0\NasaLib.deps.json
+C:\Works\CSharpWorks\NasaApp\NasaLib\bin\Debug\net6.0\NasaLib.dll
+C:\Works\CSharpWorks\NasaApp\NasaLib\bin\Debug\net6.0\NasaLib.pdb
+C:\Works\CSharpWorks\NasaApp\NasaLib\obj\Debug\net6.0\NasaLib.csproj.AssemblyReference.cache
+C:\Works\CSharpWorks\NasaApp\NasaLib\obj\Debug\net6.0\NasaLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\CSharpWorks\NasaApp\NasaLib\obj\Debug\net6.0\NasaLib.AssemblyInfoInputs.cache
+C:\Works\CSharpWorks\NasaApp\NasaLib\obj\Debug\net6.0\NasaLib.AssemblyInfo.cs
+C:\Works\CSharpWorks\NasaApp\NasaLib\obj\Debug\net6.0\NasaLib.csproj.CoreCompileInputs.cache
+C:\Works\CSharpWorks\NasaApp\NasaLib\obj\Debug\net6.0\NasaLib.dll
+C:\Works\CSharpWorks\NasaApp\NasaLib\obj\Debug\net6.0\refint\NasaLib.dll
+C:\Works\CSharpWorks\NasaApp\NasaLib\obj\Debug\net6.0\NasaLib.pdb
+C:\Works\CSharpWorks\NasaApp\NasaLib\obj\Debug\net6.0\ref\NasaLib.dll
