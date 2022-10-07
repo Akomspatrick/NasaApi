@@ -11,14 +11,14 @@ namespace NasaLib
         public int x { get; init; }
         public int y { get; init; }
         public string direction { get; init; }
-        public Plateau plateau { get; init; }
-        public Rover(string startingPoint, Plateau plateau)
+        public static Plateau plateau;
+        public Rover(string startingPoint, Plateau plat)
         {
             string[] all = startingPoint.Split(" ");
             x = int.Parse(all[0]);
             y = int.Parse(all[1]);
             direction = all[2];
-            this.plateau = plateau; 
+            plateau = plat; 
         }
         public Rover(int x, int y, string direction)
         {
