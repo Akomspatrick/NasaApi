@@ -20,14 +20,14 @@ namespace NasaLib
             direction = all[2];
             this.plateau = plateau; 
         }
-        //public Rover(int x, int y, string direction)
-        //{
-        //    if ((x < plateau.x1) || (y < plateau.y1) || (x > plateau.x2) || (y > plateau.y2))
-        //        throw new ArgumentOutOfRangeException("The Values supplied are out of Range");
-        //    this.x = x;
-        //    this.y = y;
-        //    this.direction = direction;
-        //}
+        public Rover(int x, int y, string direction)
+        {
+            if ((x < plateau.x1) || (y < plateau.y1) || (x > plateau.x2) || (y > plateau.y2))
+                throw new ArgumentOutOfRangeException("The Values supplied are out of Range");
+            this.x = x;
+            this.y = y;
+            this.direction = direction;
+        }
 
     }
 }

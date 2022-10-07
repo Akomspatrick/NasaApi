@@ -27,9 +27,3 @@ C:\Works\CSharpWorks\NasaApp\NassaApi\obj\Debug\net6.0\refint\NassaApi.dll
 C:\Works\CSharpWorks\NasaApp\NassaApi\obj\Debug\net6.0\NassaApi.pdb
 C:\Works\CSharpWorks\NasaApp\NassaApi\obj\Debug\net6.0\NassaApi.genruntimeconfig.cache
 C:\Works\CSharpWorks\NasaApp\NassaApi\obj\Debug\net6.0\ref\NassaApi.dll
-C:\Works\CSharpWorks\NasaApp\NassaApi\bin\Debug\net6.0\System.Web.Cors.dll
-C:\Works\CSharpWorks\NasaApp\NassaApi\bin\Debug\net6.0\System.Net.Http.Formatting.dll
-C:\Works\CSharpWorks\NasaApp\NassaApi\bin\Debug\net6.0\System.Web.Http.dll
-C:\Works\CSharpWorks\NasaApp\NassaApi\bin\Debug\net6.0\System.Web.Http.Cors.dll
-C:\Works\CSharpWorks\NasaApp\NassaApi\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Works\CSharpWorks\NasaApp\NassaApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll

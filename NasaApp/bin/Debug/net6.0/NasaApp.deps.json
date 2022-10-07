@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NasaApp/1.0.0": {
+        "dependencies": {
+          "NasaLib": "1.0.0"
+        },
+        "runtime": {
+          "NasaApp.dll": {}
+        }
+      },
+      "NasaLib/1.0.0": {
+        "runtime": {
+          "NasaLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NasaApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NasaLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
